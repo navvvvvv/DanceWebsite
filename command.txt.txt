@@ -1,0 +1,9 @@
+touch. gitignore
+git config --global user.name Navin
+git config --global user.email "your_email@example.com"
+git config --global user.name N
+git init 
+git add .
+git commit - m "intial commit"
+git status  - (just to see)
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
